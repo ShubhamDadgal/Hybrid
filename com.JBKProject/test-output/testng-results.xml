@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="0" total="80" passed="76">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18860" started-at="2022-12-19T21:50:33 IST" finished-at="2022-12-19T21:50:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18860" started-at="2022-12-19T21:50:33 IST" finished-at="2022-12-19T21:50:52 IST">
+      <class name="com.JBKProjectTest.UserPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="beforeMethod" is-config="true" duration-ms="12943" started-at="2022-12-19T21:50:21 IST" finished-at="2022-12-19T21:50:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verify_Heading_Users()[pri:1, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_Heading_Users" duration-ms="34" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_Users -->
+        <test-method status="PASS" signature="verify_Heading_UserList()[pri:2, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_Heading_UserList" duration-ms="25" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_UserList -->
+        <test-method status="PASS" signature="verify_AddUserButton_Click()[pri:3, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_AddUserButton_Click" duration-ms="125" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AddUserButton_Click -->
+        <test-method status="PASS" signature="verify_Heading_AddUser()[pri:4, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_Heading_AddUser" duration-ms="23" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_AddUser -->
+        <test-method status="PASS" signature="verify_FillDetails()[pri:5, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_FillDetails" duration-ms="37" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_FillDetails -->
+        <test-method status="PASS" signature="addUser1()[pri:6, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="addUser1" duration-ms="590" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser1 -->
+        <test-method status="PASS" signature="verify_SideBar_UserClick()[pri:7, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_SideBar_UserClick" duration-ms="170" started-at="2022-12-19T21:50:48 IST" finished-at="2022-12-19T21:50:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SideBar_UserClick -->
+        <test-method status="PASS" signature="verify_UsersPrintTableHeading()[pri:8, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_UsersPrintTableHeading" duration-ms="160" started-at="2022-12-19T21:50:48 IST" finished-at="2022-12-19T21:50:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_UsersPrintTableHeading -->
+        <test-method status="PASS" signature="verify_UsersPrintTableContent()[pri:9, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_UsersPrintTableContent" duration-ms="631" started-at="2022-12-19T21:50:48 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_UsersPrintTableContent -->
+        <test-method status="PASS" signature="addUsersDelete1()[pri:10, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="addUsersDelete1" duration-ms="60" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUsersDelete1 -->
+        <test-method status="PASS" signature="addUsersDelete2()[pri:11, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="addUsersDelete2" duration-ms="76" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUsersDelete2 -->
+        <test-method status="PASS" signature="addUsersDelete3()[pri:12, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="addUsersDelete3" duration-ms="63" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUsersDelete3 -->
+        <test-method status="PASS" signature="addUsersDelete4()[pri:13, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="addUsersDelete4" duration-ms="76" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUsersDelete4 -->
+        <test-method status="PASS" signature="verify_navigateToOperatorPage()[pri:14, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="verify_navigateToOperatorPage" duration-ms="105" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_navigateToOperatorPage -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.UserPageTest@6dde5c8c]" name="afterMethod" is-config="true" duration-ms="-1671466853945" started-at="2022-12-19T21:50:53 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.UserPageTest -->
+      <class name="com.JBKProjectTest.DashboardPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="beforeMethod" is-config="true" duration-ms="5386" started-at="2022-12-19T21:49:50 IST" finished-at="2022-12-19T21:49:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verify_Header_JavaByKiran()[pri:1, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Header_JavaByKiran" duration-ms="21" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Header_JavaByKiran -->
+        <test-method status="PASS" signature="verify_Active_Kiran()[pri:2, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Active_Kiran" duration-ms="25" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Active_Kiran -->
+        <test-method status="PASS" signature="verify_Text_Online()[pri:3, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_Online" duration-ms="28" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_Online -->
+        <test-method status="PASS" signature="verify_Heading_Dashboard()[pri:4, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Heading_Dashboard" duration-ms="26" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_Dashboard -->
+        <test-method status="PASS" signature="verify_Text_Selenium()[pri:5, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_Selenium" duration-ms="32" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_Selenium -->
+        <test-method status="PASS" signature="verify_Text_JavaJ2EE()[pri:6, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_JavaJ2EE" duration-ms="21" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_JavaJ2EE -->
+        <test-method status="PASS" signature="verify_Text_Python()[pri:7, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_Python" duration-ms="22" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_Python -->
+        <test-method status="PASS" signature="verify_Text_Php()[pri:8, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_Php" duration-ms="32" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_Php -->
+        <test-method status="PASS" signature="verify_Text_AutomationTesting()[pri:9, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_AutomationTesting" duration-ms="28" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_AutomationTesting -->
+        <test-method status="PASS" signature="verify_Text_SoftwareDevelopment()[pri:10, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_SoftwareDevelopment" duration-ms="33" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_SoftwareDevelopment -->
+        <test-method status="PASS" signature="verify_Text_DataScience()[pri:11, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_DataScience" duration-ms="26" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_DataScience -->
+        <test-method status="PASS" signature="verify_Text_WebDevelopment()[pri:12, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_Text_WebDevelopment" duration-ms="33" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Text_WebDevelopment -->
+        <test-method status="PASS" signature="verify_clickLinkText()[pri:13, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_clickLinkText" duration-ms="403" started-at="2022-12-19T21:50:46 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_clickLinkText -->
+        <test-method status="PASS" signature="verify_SideBar_Dashboard()[pri:14, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_SideBar_Dashboard" duration-ms="199" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SideBar_Dashboard -->
+        <test-method status="PASS" signature="verify_SideBar_UsersClick()[pri:15, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="verify_SideBar_UsersClick" duration-ms="158" started-at="2022-12-19T21:50:47 IST" finished-at="2022-12-19T21:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SideBar_UsersClick -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.DashboardPageTest@6fb0d3ed]" name="afterMethod" is-config="true" duration-ms="628" started-at="2022-12-19T21:50:53 IST" finished-at="2022-12-19T21:50:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.DashboardPageTest -->
+      <class name="com.JBKProjectTest.OperatorPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="beforeMethod" is-config="true" duration-ms="6397" started-at="2022-12-19T21:50:03 IST" finished-at="2022-12-19T21:50:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verify_Heading_Operators()[pri:1, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_Heading_Operators" duration-ms="33" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_Operators -->
+        <test-method status="PASS" signature="verify_Heading_OperatorList()[pri:2, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_Heading_OperatorList" duration-ms="23" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_OperatorList -->
+        <test-method status="PASS" signature="verify_AllOperatorsHeadingPrint()[pri:3, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_AllOperatorsHeadingPrint" duration-ms="137" started-at="2022-12-19T21:50:49 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AllOperatorsHeadingPrint -->
+        <test-method status="PASS" signature="verify_AllOperatorsPrint()[pri:4, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_AllOperatorsPrint" duration-ms="730" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AllOperatorsPrint -->
+        <test-method status="PASS" signature="verify_ConnectionWith_Whatsapp_PhoneCall_Sms_Email()[pri:6, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_ConnectionWith_Whatsapp_PhoneCall_Sms_Email" duration-ms="1" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ConnectionWith_Whatsapp_PhoneCall_Sms_Email -->
+        <test-method status="PASS" signature="verify_ConnectionWith_WhatsappOnly()[pri:5, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_ConnectionWith_WhatsappOnly" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ConnectionWith_WhatsappOnly -->
+        <test-method status="PASS" signature="verify_PersonsPresentOn_MondayToSaturday()[pri:7, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresentOn_MondayToSaturday" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresentOn_MondayToSaturday -->
+        <test-method status="PASS" signature="verify_PersonsPresentOn_MondayToSunday()[pri:8, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresentOn_MondayToSunday" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresentOn_MondayToSunday -->
+        <test-method status="PASS" signature="verify_PersonsPresentOn_SaturdaySunday()[pri:10, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresentOn_SaturdaySunday" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresentOn_SaturdaySunday -->
+        <test-method status="PASS" signature="verify_PersonsPresentOn_MondayToFridayAndSunday()[pri:9, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresentOn_MondayToFridayAndSunday" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresentOn_MondayToFridayAndSunday -->
+        <test-method status="PASS" signature="verify_PersonsPresent_for_UrgentTechnicalHelp()[pri:11, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresent_for_UrgentTechnicalHelp" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresent_for_UrgentTechnicalHelp -->
+        <test-method status="PASS" signature="verify_PersonsPresent_for_TechnicalDiscussion()[pri:12, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresent_for_TechnicalDiscussion" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresent_for_TechnicalDiscussion -->
+        <test-method status="PASS" signature="verify_PersonsPresent_for_Administration()[pri:13, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresent_for_Administration" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresent_for_Administration -->
+        <test-method status="PASS" signature="verify_PersonsPresent_for_Enquiry()[pri:14, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresent_for_Enquiry" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresent_for_Enquiry -->
+        <test-method status="PASS" signature="verify_NavigateToUsefulLinksPage()[pri:16, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_NavigateToUsefulLinksPage" duration-ms="131" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_NavigateToUsefulLinksPage -->
+        <test-method status="PASS" signature="verify_PersonsPresent_for_TechnicalHelp()[pri:15, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="verify_PersonsPresent_for_TechnicalHelp" duration-ms="0" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PersonsPresent_for_TechnicalHelp -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.OperatorPageTest@5123a213]" name="afterMethod" is-config="true" duration-ms="-1671466853944" started-at="2022-12-19T21:50:53 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.OperatorPageTest -->
+      <class name="com.JBKProjectTest.UsefulLinksPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="beforeMethod" is-config="true" duration-ms="10992" started-at="2022-12-19T21:50:10 IST" finished-at="2022-12-19T21:50:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verify_Heading_UsefulLinks()[pri:1, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_Heading_UsefulLinks" duration-ms="31" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_UsefulLinks -->
+        <test-method status="PASS" signature="verify_Heading_InternetRequired()[pri:2, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_Heading_InternetRequired" duration-ms="23" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_InternetRequired -->
+        <test-method status="PASS" signature="verify_Heading_LinksTable()[pri:3, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_Heading_LinksTable" duration-ms="31" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_LinksTable -->
+        <test-method status="PASS" signature="verify_LinksTableRow1()[pri:4, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow1" duration-ms="29" started-at="2022-12-19T21:50:50 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow1 -->
+        <test-method status="PASS" signature="verify_LinksTableRow2()[pri:5, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow2" duration-ms="31" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow2 -->
+        <test-method status="PASS" signature="verify_LinksTableRow3()[pri:6, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow3" duration-ms="29" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow3 -->
+        <test-method status="PASS" signature="verify_LinksTableRow4()[pri:7, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow4" duration-ms="31" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow4 -->
+        <test-method status="PASS" signature="verify_LinksTableRow5()[pri:8, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow5" duration-ms="29" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow5 -->
+        <test-method status="PASS" signature="verify_LinksTableRow6()[pri:9, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_LinksTableRow6" duration-ms="30" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinksTableRow6 -->
+        <test-method status="PASS" signature="verify_ClickLinks()[pri:10, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_ClickLinks" duration-ms="482" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ClickLinks -->
+        <test-method status="PASS" signature="verify_Footer1()[pri:11, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_Footer1" duration-ms="27" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Footer1 -->
+        <test-method status="PASS" signature="verify_Footer2()[pri:12, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_Footer2" duration-ms="52" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Footer2 -->
+        <test-method status="PASS" signature="verify_NavigateToDownloadsPage()[pri:13, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="verify_NavigateToDownloadsPage" duration-ms="106" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_NavigateToDownloadsPage -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.UsefulLinksPageTest@52525845]" name="afterMethod" is-config="true" duration-ms="-1671466853944" started-at="2022-12-19T21:50:53 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.UsefulLinksPageTest -->
+      <class name="com.JBKProjectTest.DownloadsPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="beforeMethod" is-config="true" duration-ms="5971" started-at="2022-12-19T21:49:55 IST" finished-at="2022-12-19T21:50:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verify_Heading_Downloads()[pri:1, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_Heading_Downloads" duration-ms="22" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_Downloads -->
+        <test-method status="PASS" signature="verify_Heading_DownloadsList()[pri:2, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_Heading_DownloadsList" duration-ms="27" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Heading_DownloadsList -->
+        <test-method status="PASS" signature="verify_PrintRow1()[pri:3, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow1" duration-ms="30" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow1 -->
+        <test-method status="PASS" signature="verify_SmallHead()[pri:4, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_SmallHead" duration-ms="25" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SmallHead -->
+        <test-method status="PASS" signature="verify_PrintRow2()[pri:5, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow2" duration-ms="21" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow2 -->
+        <test-method status="PASS" signature="verify_PrintRow3()[pri:6, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow3" duration-ms="31" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow3 -->
+        <test-method status="PASS" signature="verify_PrintRow4()[pri:7, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow4" duration-ms="26" started-at="2022-12-19T21:50:51 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow4 -->
+        <test-method status="PASS" signature="verify_PrintRow5()[pri:8, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow5" duration-ms="32" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow5 -->
+        <test-method status="PASS" signature="verify_PrintRow6()[pri:9, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow6" duration-ms="26" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow6 -->
+        <test-method status="PASS" signature="verify_PrintRow7()[pri:10, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow7" duration-ms="33" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow7 -->
+        <test-method status="PASS" signature="verify_PrintRow8()[pri:11, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_PrintRow8" duration-ms="28" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_PrintRow8 -->
+        <test-method status="PASS" signature="verify_ClickAllOfficialWebsites()[pri:12, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_ClickAllOfficialWebsites" duration-ms="478" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ClickAllOfficialWebsites -->
+        <test-method status="FAIL" signature="verify_ClickLogout()[pri:13, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="verify_ClickLogout" duration-ms="107" started-at="2022-12-19T21:50:52 IST" finished-at="2022-12-19T21:50:52 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JavaByKiran | Log in] but found [JavaByKiran | Operators]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | Operators]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.JBKProjectTest.DownloadsPageTest.verify_ClickLogout(DownloadsPageTest.java:129)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ClickLogout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.DownloadsPageTest@3b94d659]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-12-19T21:50:53 IST" finished-at="2022-12-19T21:50:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.DownloadsPageTest -->
+      <class name="com.JBKProjectTest.LoginPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="beforeMethod" is-config="true" duration-ms="1996" started-at="2022-12-19T21:50:01 IST" finished-at="2022-12-19T21:50:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="downloadImg()[pri:1, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="downloadImg" duration-ms="4133" started-at="2022-12-19T21:50:34 IST" finished-at="2022-12-19T21:50:38 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JavaByKiran | Log in] but found [JavaByKiran | User]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.JBKProjectTest.LoginPageTest.downloadImg(LoginPageTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadImg -->
+        <test-method status="PASS" signature="verify_Head1_JavaByKiran_Print()[pri:2, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_Head1_JavaByKiran_Print" duration-ms="23" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Head1_JavaByKiran_Print -->
+        <test-method status="PASS" signature="verify_Head2_CoursesName_Print()[pri:3, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_Head2_CoursesName_Print" duration-ms="31" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Head2_CoursesName_Print -->
+        <test-method status="PASS" signature="verify_Head3_SigninMessage_Print()[pri:4, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_Head3_SigninMessage_Print" duration-ms="31" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Head3_SigninMessage_Print -->
+        <test-method status="PASS" signature="verify_RegisterLink_Click()[pri:5, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_RegisterLink_Click" duration-ms="123" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_RegisterLink_Click -->
+        <test-method status="PASS" signature="verify_NewHead_JavaByKiran_Print()[pri:6, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_NewHead_JavaByKiran_Print" duration-ms="32" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_NewHead_JavaByKiran_Print -->
+        <test-method status="PASS" signature="verify_Register_NewMember()[pri:7, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_Register_NewMember" duration-ms="29" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Register_NewMember -->
+        <test-method status="FAIL" signature="verify_providedDataOfNewMember()[pri:8, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_providedDataOfNewMember" duration-ms="2478" started-at="2022-12-19T21:50:38 IST" finished-at="2022-12-19T21:50:41 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JavaByKiran | Log in] but found [JavaByKiran | User]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.JBKProjectTest.LoginPageTest.verify_providedDataOfNewMember(LoginPageTest.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_providedDataOfNewMember -->
+        <test-method status="FAIL" signature="verify_CorrectCredentials()[pri:9, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="verify_CorrectCredentials" duration-ms="5019" started-at="2022-12-19T21:50:41 IST" finished-at="2022-12-19T21:50:46 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JavaByKiran | Dashboard] but found [JavaByKiran | User]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JavaByKiran | Dashboard] but found [JavaByKiran | User]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.JBKProjectTest.LoginPageTest.verify_CorrectCredentials(LoginPageTest.java:83)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_CorrectCredentials -->
+        <test-method status="FAIL" signature="afterMethod()[pri:0, instance:com.JBKProjectTest.LoginPageTest@5d11346a]" name="afterMethod" is-config="true" duration-ms="2" started-at="2022-12-19T21:50:53 IST" finished-at="2022-12-19T21:50:53 IST">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SHUBHAMRABBIT', ip: '192.168.43.173', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SHUBHAMRABBIT', ip: '192.168.43.173', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
+at com.JBKProjectTest.LoginPageTest.afterMethod(LoginPageTest.java:32)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:344)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.JBKProjectTest.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

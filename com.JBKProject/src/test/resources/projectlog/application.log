@@ -1,0 +1,1170 @@
+2022-12-19 11:54:30,648 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-12-19 11:54:30,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-12-19 11:54:30,652 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-12-19 11:54:30,652 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-12-19 11:54:30,738 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-12-19 11:54:30,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-12-19 11:54:30,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-12-19 11:54:30,740 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-12-19 11:54:30,865 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,865 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-12-19 11:54:30,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-12-19 11:54:30,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-12-19 11:54:30,866 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-12-19 11:54:30,878 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-12-19 11:54:30,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-12-19 11:54:30,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-12-19 11:54:30,880 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-12-19 11:54:30,882 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-12-19 11:54:30,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-12-19 11:54:30,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-12-19 11:54:30,884 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-12-19 11:54:30,887 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-12-19 11:54:30,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-12-19 11:54:30,889 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-12-19 11:54:30,889 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-12-19 11:54:30,894 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,895 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,895 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2022-12-19 11:54:30,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-12-19 11:54:30,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-12-19 11:54:30,897 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-12-19 11:54:30,905 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-12-19 11:54:30,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-12-19 11:54:30,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-12-19 11:54:30,907 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-12-19 11:54:30,911 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-12-19 11:54:30,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-12-19 11:54:30,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-12-19 11:54:30,912 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-12-19 11:54:30,913 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-12-19 11:54:30,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-12-19 11:54:30,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-12-19 11:54:30,921 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-12-19 11:54:30,928 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,928 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-12-19 11:54:30,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-12-19 11:54:30,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-12-19 11:54:30,929 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-12-19 11:54:30,938 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-12-19 11:54:30,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-12-19 11:54:30,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-12-19 11:54:30,939 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-12-19 11:54:30,951 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:30,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-12-19 11:54:30,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-12-19 11:54:30,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-12-19 11:54:30,953 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-12-19 11:54:30,958 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,959 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,961 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,963 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,964 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,965 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,967 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,968 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,969 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,971 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,972 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,973 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,974 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,975 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,977 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,979 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,980 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,981 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,982 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,983 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,984 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,984 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,985 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,986 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,987 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,987 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,988 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,989 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,989 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,990 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,991 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,992 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,992 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,993 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,994 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,995 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,996 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,996 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,997 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,998 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,999 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:30,999 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,000 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,001 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,002 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,003 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,003 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,003 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,005 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,005 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,005 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,005 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,006 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,006 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,006 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,007 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,007 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,010 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,011 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,011 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,012 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,013 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,013 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,014 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,015 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,016 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,016 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,017 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,018 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,018 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,019 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,019 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,020 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,020 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,021 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,021 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,022 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,022 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 11:54:31,023 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2022-12-19 11:54:31,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-12-19 11:54:31,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-12-19 11:54:31,024 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-12-19 11:54:31,025 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2022-12-19 11:54:31,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-12-19 11:54:31,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-12-19 11:54:31,026 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-12-19 11:54:31,026 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2022-12-19 11:54:31,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-12-19 11:54:31,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-12-19 11:54:31,027 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-12-19 11:54:31,028 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2022-12-19 11:54:31,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-12-19 11:54:31,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-12-19 11:54:31,028 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-12-19 11:54:31,029 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2022-12-19 11:54:31,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-12-19 11:54:31,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-12-19 11:54:31,030 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-12-19 11:54:31,031 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-12-19 11:54:31,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-12-19 11:54:31,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-12-19 11:54:31,031 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-12-19 11:54:31,061 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-12-19 11:54:31,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-12-19 11:54:31,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-12-19 11:54:31,063 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-12-19 11:54:31,066 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 11:54:31,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-12-19 11:54:31,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-12-19 11:54:31,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-12-19 11:54:31,067 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-12-19 16:15:05,413  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:15:08,448  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:15:08,448  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:15:08,589  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:15:08,724  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:15:08,754  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:15:09,753  INFO [main] TestBase:51 - Downloads
+2022-12-19 16:16:20,111  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:16:22,283  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:16:22,283  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:16:22,450  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:16:22,597  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:16:22,626  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:16:23,581  INFO [main] TestBase:51 - Downloads
+2022-12-19 16:16:23,632  INFO [main] TestBase:59 - Downloads List
+2022-12-19 16:16:23,671  INFO [main] TestBase:67 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 16:16:23,705  INFO [main] TestBase:73 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 16:16:23,748  INFO [main] TestBase:79 - 01 Java Development Kit (JDK) 1.8 32bit 64bit Official Website
+2022-12-19 16:16:23,780  INFO [main] TestBase:85 - 02 Selenium Server Standalon Jar 2.52.0 3.9.0 2.52.0 3.9.0 Official Website
+2022-12-19 16:16:23,826  INFO [main] TestBase:91 - 03 Selenium Server Source Jar 2.46.0 Common Official Website
+2022-12-19 16:16:23,859  INFO [main] TestBase:97 - 04 Google Chrome 76.0 32bit 64bit Official Website
+2022-12-19 16:16:23,910  INFO [main] TestBase:103 - 05 Google Chrome Driver 76.0 Common Official Website
+2022-12-19 16:16:23,954  INFO [main] TestBase:109 - 06 Mozilla Firefox 69.0 32bit 64bit Official Website
+2022-12-19 16:16:23,998  INFO [main] TestBase:115 - 07 Gecko Driver for Latest firefox 0.24.0 32bit 64bit Official Website
+2022-12-19 16:21:00,820  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:02,947  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:02,948  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:03,125  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:03,262  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:03,290  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:03,722  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:04,920  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:04,920  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:05,070  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:05,216  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:05,246  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:06,200  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:07,276  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:07,276  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:07,428  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:07,573  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:07,604  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:07,605  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:08,734  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:08,734  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:08,884  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:09,028  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:09,059  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:09,854  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:11,007  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:11,007  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:11,168  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:11,303  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:11,334  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:11,967  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 16:21:13,045  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 16:21:13,045  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 16:21:13,159  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 16:21:13,300  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 16:21:13,330  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 16:21:14,207  INFO [main] TestBase:55 - * Internet Required
+2022-12-19 16:21:14,242  INFO [main] TestBase:63 - Sr Content Click
+2022-12-19 16:21:14,310  INFO [main] TestBase:70 - 01 Schedule Go !
+2022-12-19 16:21:14,334  INFO [main] TestBase:77 - 02 Video Lactures All Topics Go !
+2022-12-19 16:21:14,366  INFO [main] TestBase:85 - 03 Selenium Interview Questions Go !
+2022-12-19 16:21:14,396  INFO [main] TestBase:92 - 04 Java Interview Questions Go !
+2022-12-19 16:21:14,429  INFO [main] TestBase:99 - 05 Courses Go !
+2022-12-19 16:21:14,459  INFO [main] TestBase:106 - 06 Placement Go !
+2022-12-19 16:21:15,013  INFO [main] TestBase:119 - Copyright � 2005-2019 JavaByKiran.
+2022-12-19 16:21:15,049  INFO [main] TestBase:127 - Design for Selenium Automation Test
+2022-12-19 16:21:15,143  INFO [main] TestBase:135 - #####----Navigating to the Downloads Page#####----
+2022-12-19 16:21:15,183  INFO [main] TestBase:45 - Operators
+2022-12-19 16:21:15,206  INFO [main] TestBase:53 - Operator List
+2022-12-19 16:21:16,443  INFO [main] TestBase:141 - #####----Navigating to the UsefulLinks Page#####----
+2022-12-19 16:21:16,484  INFO [main] TestBase:45 - Users
+2022-12-19 16:21:16,514  INFO [main] TestBase:52 - User List
+2022-12-19 16:21:16,667  INFO [main] TestBase:65 - Add User
+2022-12-19 16:21:16,692  INFO [main] TestBase:72 - Fill Below Details
+2022-12-19 16:21:18,980  INFO [main] TestBase:127 - #####----Navigating to the Operator Page#####----
+2022-12-19 16:21:19,011  INFO [main] TestBase:38 - Actual Header of Dashboard Page:--Java By Kiran
+2022-12-19 16:21:19,041  INFO [main] TestBase:45 - Actual Header of Dashboard Page:--Kiran
+2022-12-19 16:21:19,072  INFO [main] TestBase:52 - Actual Header of Dashboard Page:--Online
+2022-12-19 16:21:19,104  INFO [main] TestBase:59 - Actual Header of Dashboard Page:--Dashboard Courses Offered
+2022-12-19 16:21:19,135  INFO [main] TestBase:66 - Actual Header of Dashboard Page:--Selenium
+2022-12-19 16:21:19,165  INFO [main] TestBase:73 - Actual Header of Dashboard Page:--Java / J2EE
+2022-12-19 16:21:19,195  INFO [main] TestBase:80 - Actual Header of Dashboard Page:--Python
+2022-12-19 16:21:19,227  INFO [main] TestBase:87 - Actual Header of Dashboard Page:--Php
+2022-12-19 16:21:19,259  INFO [main] TestBase:94 - Actual Header of Dashboard Page:--Automation Testing
+2022-12-19 16:21:19,291  INFO [main] TestBase:101 - Actual Header of Dashboard Page:--Software Development
+2022-12-19 16:21:19,323  INFO [main] TestBase:108 - Actual Header of Dashboard Page:--Data Science
+2022-12-19 16:21:19,354  INFO [main] TestBase:115 - Actual Header of Dashboard Page:--Web Development
+2022-12-19 16:21:20,119  INFO [main] TestBase:51 - Downloads
+2022-12-19 16:21:20,163  INFO [main] TestBase:59 - Downloads List
+2022-12-19 16:21:20,207  INFO [main] TestBase:67 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 16:21:20,237  INFO [main] TestBase:73 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 16:21:20,282  INFO [main] TestBase:79 - 01 Java Development Kit (JDK) 1.8 32bit 64bit Official Website
+2022-12-19 16:21:20,314  INFO [main] TestBase:85 - 02 Selenium Server Standalon Jar 2.52.0 3.9.0 2.52.0 3.9.0 Official Website
+2022-12-19 16:21:20,342  INFO [main] TestBase:91 - 03 Selenium Server Source Jar 2.46.0 Common Official Website
+2022-12-19 16:21:20,377  INFO [main] TestBase:97 - 04 Google Chrome 76.0 32bit 64bit Official Website
+2022-12-19 16:21:20,405  INFO [main] TestBase:103 - 05 Google Chrome Driver 76.0 Common Official Website
+2022-12-19 16:21:20,437  INFO [main] TestBase:109 - 06 Mozilla Firefox 69.0 32bit 64bit Official Website
+2022-12-19 16:21:20,467  INFO [main] TestBase:115 - 07 Gecko Driver for Latest firefox 0.24.0 32bit 64bit Official Website
+2022-12-19 16:21:26,207  INFO [main] TestBase:47 - Heading matched
+2022-12-19 16:21:26,244  INFO [main] TestBase:61 - Heading matched
+2022-12-19 16:21:26,290  INFO [main] TestBase:75 - Heading matched
+2022-12-19 16:21:26,535  INFO [main] TestBase:94 - Heading matched
+2022-12-19 16:21:26,574  INFO [main] TestBase:108 - Heading matched
+2022-12-19 16:21:30,434 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-12-19 16:21:30,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-12-19 16:21:30,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-12-19 16:21:30,439 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-12-19 16:21:30,540 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-12-19 16:21:30,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-12-19 16:21:30,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-12-19 16:21:30,542 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-12-19 16:21:30,677 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-12-19 16:21:30,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-12-19 16:21:30,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-12-19 16:21:30,678 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-12-19 16:21:30,691 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-12-19 16:21:30,692 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-12-19 16:21:30,692 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-12-19 16:21:30,692 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-12-19 16:21:30,694 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-12-19 16:21:30,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-12-19 16:21:30,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-12-19 16:21:30,694 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-12-19 16:21:30,698 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-12-19 16:21:30,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-12-19 16:21:30,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-12-19 16:21:30,699 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-12-19 16:21:30,703 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,703 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2022-12-19 16:21:30,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-12-19 16:21:30,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-12-19 16:21:30,704 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-12-19 16:21:30,712 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-12-19 16:21:30,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-12-19 16:21:30,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-12-19 16:21:30,714 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-12-19 16:21:30,718 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,718 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-12-19 16:21:30,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-12-19 16:21:30,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-12-19 16:21:30,719 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-12-19 16:21:30,720 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-12-19 16:21:30,720 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-12-19 16:21:30,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-12-19 16:21:30,721 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-12-19 16:21:30,729 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-12-19 16:21:30,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-12-19 16:21:30,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-12-19 16:21:30,730 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-12-19 16:21:30,739 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-12-19 16:21:30,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-12-19 16:21:30,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-12-19 16:21:30,741 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-12-19 16:21:30,753 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-12-19 16:21:30,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-12-19 16:21:30,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-12-19 16:21:30,754 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-12-19 16:21:30,758 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,759 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,761 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,763 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,764 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,765 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,767 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,767 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,769 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,770 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,770 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,771 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,772 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,773 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,775 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,777 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,778 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,778 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,779 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,779 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,780 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,780 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,782 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,782 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,783 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,784 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,784 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,785 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,785 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,786 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,787 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,788 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,788 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,789 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,789 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,790 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,790 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,791 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,791 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,792 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,793 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,794 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,794 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,795 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,795 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,796 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,796 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,797 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,797 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,798 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,798 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,799 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,799 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,800 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,800 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,802 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,802 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,805 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,805 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,806 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,806 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,807 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,808 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,808 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,809 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,809 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,810 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,811 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,811 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,811 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,812 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,813 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,813 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,814 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,814 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,815 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,815 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,815 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,816 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 16:21:30,816 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2022-12-19 16:21:30,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-12-19 16:21:30,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-12-19 16:21:30,817 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-12-19 16:21:30,818 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2022-12-19 16:21:30,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-12-19 16:21:30,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-12-19 16:21:30,818 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-12-19 16:21:30,819 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2022-12-19 16:21:30,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-12-19 16:21:30,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-12-19 16:21:30,821 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-12-19 16:21:30,821 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2022-12-19 16:21:30,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-12-19 16:21:30,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-12-19 16:21:30,822 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-12-19 16:21:30,822 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2022-12-19 16:21:30,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-12-19 16:21:30,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-12-19 16:21:30,823 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-12-19 16:21:30,825 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-12-19 16:21:30,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-12-19 16:21:30,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-12-19 16:21:30,825 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-12-19 16:21:30,858 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-12-19 16:21:30,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-12-19 16:21:30,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-12-19 16:21:30,859 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-12-19 16:21:30,862 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 16:21:30,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-12-19 16:21:30,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-12-19 16:21:30,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-12-19 16:21:30,862 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-12-19 17:04:02,459  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:04:04,728  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:04:04,729  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:04:05,991  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:04:06,129  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:04:06,157  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:04:09,284  INFO [main] TestBase:38 - Actual Header of Dashboard Page:--Java By Kiran
+2022-12-19 17:04:09,327  INFO [main] TestBase:45 - Actual Header of Dashboard Page:--Kiran
+2022-12-19 17:04:09,371  INFO [main] TestBase:52 - Actual Header of Dashboard Page:--Online
+2022-12-19 17:04:09,404  INFO [main] TestBase:59 - Actual Header of Dashboard Page:--Dashboard Courses Offered
+2022-12-19 17:04:09,437  INFO [main] TestBase:66 - Actual Header of Dashboard Page:--Selenium
+2022-12-19 17:04:09,486  INFO [main] TestBase:73 - Actual Header of Dashboard Page:--Java / J2EE
+2022-12-19 17:04:09,534  INFO [main] TestBase:80 - Actual Header of Dashboard Page:--Python
+2022-12-19 17:04:09,581  INFO [main] TestBase:87 - Actual Header of Dashboard Page:--Php
+2022-12-19 17:04:09,626  INFO [main] TestBase:94 - Actual Header of Dashboard Page:--Automation Testing
+2022-12-19 17:04:09,674  INFO [main] TestBase:101 - Actual Header of Dashboard Page:--Software Development
+2022-12-19 17:04:09,719  INFO [main] TestBase:108 - Actual Header of Dashboard Page:--Data Science
+2022-12-19 17:04:09,755  INFO [main] TestBase:115 - Actual Header of Dashboard Page:--Web Development
+2022-12-19 17:04:10,874  INFO [main] TestBase:133 - #####----Navigating to the Users Page#####----
+2022-12-19 17:04:24,308  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:04:26,311  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:04:26,311  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:04:27,553  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:04:27,690  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:04:27,718  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:04:29,070  INFO [main] TestBase:38 - Actual Header of Dashboard Page:--Java By Kiran
+2022-12-19 17:04:29,117  INFO [main] TestBase:45 - Actual Header of Dashboard Page:--Kiran
+2022-12-19 17:04:29,161  INFO [main] TestBase:52 - Actual Header of Dashboard Page:--Online
+2022-12-19 17:04:29,197  INFO [main] TestBase:59 - Actual Header of Dashboard Page:--Dashboard Courses Offered
+2022-12-19 17:04:29,239  INFO [main] TestBase:66 - Actual Header of Dashboard Page:--Selenium
+2022-12-19 17:04:29,271  INFO [main] TestBase:73 - Actual Header of Dashboard Page:--Java / J2EE
+2022-12-19 17:04:29,304  INFO [main] TestBase:80 - Actual Header of Dashboard Page:--Python
+2022-12-19 17:04:29,336  INFO [main] TestBase:87 - Actual Header of Dashboard Page:--Php
+2022-12-19 17:04:29,367  INFO [main] TestBase:94 - Actual Header of Dashboard Page:--Automation Testing
+2022-12-19 17:04:29,405  INFO [main] TestBase:101 - Actual Header of Dashboard Page:--Software Development
+2022-12-19 17:04:29,477  INFO [main] TestBase:108 - Actual Header of Dashboard Page:--Data Science
+2022-12-19 17:04:29,510  INFO [main] TestBase:115 - Actual Header of Dashboard Page:--Web Development
+2022-12-19 17:04:30,475  INFO [main] TestBase:133 - #####----Navigating to the Users Page#####----
+2022-12-19 17:04:52,117  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:04:54,152  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:04:54,153  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:04:55,668  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:04:55,816  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:04:55,845  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:04:59,857  INFO [main] TestBase:55 - * Internet Required
+2022-12-19 17:04:59,901  INFO [main] TestBase:63 - Sr Content Click
+2022-12-19 17:04:59,934  INFO [main] TestBase:70 - 01 Schedule Go !
+2022-12-19 17:04:59,971  INFO [main] TestBase:77 - 02 Video Lactures All Topics Go !
+2022-12-19 17:05:00,017  INFO [main] TestBase:85 - 03 Selenium Interview Questions Go !
+2022-12-19 17:05:00,060  INFO [main] TestBase:92 - 04 Java Interview Questions Go !
+2022-12-19 17:05:00,106  INFO [main] TestBase:99 - 05 Courses Go !
+2022-12-19 17:05:00,153  INFO [main] TestBase:106 - 06 Placement Go !
+2022-12-19 17:05:00,764  INFO [main] TestBase:119 - Copyright © 2005-2019 JavaByKiran.
+2022-12-19 17:05:00,827  INFO [main] TestBase:127 - Design for Selenium Automation Test
+2022-12-19 17:05:01,041  INFO [main] TestBase:135 - #####----Navigating to the Downloads Page#####----
+2022-12-19 17:05:44,372  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:05:46,447  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:05:46,448  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:05:47,852  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:05:47,999  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:05:48,028  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:05:50,547  INFO [main] TestBase:55 - * Internet Required
+2022-12-19 17:05:50,580  INFO [main] TestBase:63 - Sr Content Click
+2022-12-19 17:05:50,614  INFO [main] TestBase:70 - 01 Schedule Go !
+2022-12-19 17:05:50,659  INFO [main] TestBase:77 - 02 Video Lactures All Topics Go !
+2022-12-19 17:05:50,691  INFO [main] TestBase:85 - 03 Selenium Interview Questions Go !
+2022-12-19 17:05:50,725  INFO [main] TestBase:92 - 04 Java Interview Questions Go !
+2022-12-19 17:05:50,775  INFO [main] TestBase:99 - 05 Courses Go !
+2022-12-19 17:05:50,824  INFO [main] TestBase:106 - 06 Placement Go !
+2022-12-19 17:05:51,362  INFO [main] TestBase:119 - Copyright © 2005-2019 JavaByKiran.
+2022-12-19 17:05:51,397  INFO [main] TestBase:127 - Design for Selenium Automation Test
+2022-12-19 17:05:51,554  INFO [main] TestBase:135 - #####----Navigating to the Downloads Page#####----
+2022-12-19 17:06:20,660  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:06:22,740  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:06:22,740  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:06:24,184  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:06:24,326  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:06:24,354  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:06:28,007  INFO [main] TestBase:51 - Downloads
+2022-12-19 17:06:28,052  INFO [main] TestBase:59 - Downloads List
+2022-12-19 17:06:28,098  INFO [main] TestBase:67 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 17:06:28,136  INFO [main] TestBase:73 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 17:06:28,180  INFO [main] TestBase:79 - 01 Java Development Kit (JDK) 1.8 32bit 64bit Official Website
+2022-12-19 17:06:28,227  INFO [main] TestBase:85 - 02 Selenium Server Standalon Jar 2.52.0 3.9.0 2.52.0 3.9.0 Official Website
+2022-12-19 17:06:28,274  INFO [main] TestBase:91 - 03 Selenium Server Source Jar 2.46.0 Common Official Website
+2022-12-19 17:06:28,331  INFO [main] TestBase:97 - 04 Google Chrome 76.0 32bit 64bit Official Website
+2022-12-19 17:06:28,384  INFO [main] TestBase:103 - 05 Google Chrome Driver 76.0 Common Official Website
+2022-12-19 17:06:28,435  INFO [main] TestBase:109 - 06 Mozilla Firefox 69.0 32bit 64bit Official Website
+2022-12-19 17:06:28,476  INFO [main] TestBase:115 - 07 Gecko Driver for Latest firefox 0.24.0 32bit 64bit Official Website
+2022-12-19 17:06:46,816  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 17:06:48,930  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 17:06:48,930  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 17:06:50,250  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 17:06:50,387  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 17:06:50,417  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 17:06:54,945  INFO [main] TestBase:51 - Downloads
+2022-12-19 17:06:54,989  INFO [main] TestBase:59 - Downloads List
+2022-12-19 17:06:55,040  INFO [main] TestBase:67 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 17:06:55,082  INFO [main] TestBase:73 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 17:06:55,125  INFO [main] TestBase:79 - 01 Java Development Kit (JDK) 1.8 32bit 64bit Official Website
+2022-12-19 17:06:55,172  INFO [main] TestBase:85 - 02 Selenium Server Standalon Jar 2.52.0 3.9.0 2.52.0 3.9.0 Official Website
+2022-12-19 17:06:55,217  INFO [main] TestBase:91 - 03 Selenium Server Source Jar 2.46.0 Common Official Website
+2022-12-19 17:06:55,269  INFO [main] TestBase:97 - 04 Google Chrome 76.0 32bit 64bit Official Website
+2022-12-19 17:06:55,313  INFO [main] TestBase:103 - 05 Google Chrome Driver 76.0 Common Official Website
+2022-12-19 17:06:55,360  INFO [main] TestBase:109 - 06 Mozilla Firefox 69.0 32bit 64bit Official Website
+2022-12-19 17:06:55,411  INFO [main] TestBase:115 - 07 Gecko Driver for Latest firefox 0.24.0 32bit 64bit Official Website
+2022-12-19 18:49:46,792  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:49:48,656  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:49:48,656  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:49:49,573  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:49:49,698  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:49:49,727  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:49:54,574  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:49:55,564  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:49:55,564  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:49:56,358  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:49:56,482  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:49:56,511  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:00,153  INFO [main] TestBase:55 - * Internet Required
+2022-12-19 18:50:00,759  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:01,754  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:01,754  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:02,538  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:02,660  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:02,689  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:05,579  INFO [main] TestBase:63 - Sr Content Click
+2022-12-19 18:50:06,185  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:07,176  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:07,176  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:07,964  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:08,079  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:08,107  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:11,943  INFO [main] TestBase:70 - 01 Schedule Go !
+2022-12-19 18:50:12,548  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:13,544  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:13,544  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:14,393  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:14,509  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:14,539  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:17,568  INFO [main] TestBase:77 - 02 Video Lactures All Topics Go !
+2022-12-19 18:50:18,177  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:19,173  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:19,173  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:20,047  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:20,173  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:20,201  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:21,556  INFO [main] TestBase:85 - 03 Selenium Interview Questions Go !
+2022-12-19 18:50:22,165  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:23,172  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:23,172  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:23,926  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:24,049  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:24,076  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:31,731  INFO [main] TestBase:92 - 04 Java Interview Questions Go !
+2022-12-19 18:50:32,337  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:33,329  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:33,329  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:34,193  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:34,309  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:34,338  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:39,287  INFO [main] TestBase:99 - 05 Courses Go !
+2022-12-19 18:50:39,890  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:40,897  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:40,898  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:41,742  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:41,868  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:41,896  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:43,911  INFO [main] TestBase:106 - 06 Placement Go !
+2022-12-19 18:50:44,516  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:45,513  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:45,513  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:46,349  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:46,468  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:46,496  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:51,085  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:52,076  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:52,076  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:52,841  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:52,954  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:52,983  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:55,365  INFO [main] TestBase:119 - Copyright © 2005-2019 JavaByKiran.
+2022-12-19 18:50:55,971  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:50:56,982  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:50:56,982  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:50:57,755  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:50:57,874  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:50:57,904  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:50:59,442  INFO [main] TestBase:127 - Design for Selenium Automation Test
+2022-12-19 18:51:00,051  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:51:01,041  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:51:01,041  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:51:01,945  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:51:02,061  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:51:02,090  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:51:03,664  INFO [main] TestBase:135 - #####----Navigating to the Downloads Page#####----
+2022-12-19 18:51:04,272  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:51:05,264  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:51:05,264  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:51:06,087  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:51:06,201  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:51:06,231  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:51:09,140  INFO [main] TestBase:45 - Operators
+2022-12-19 18:51:25,351  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:51:26,337  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:51:26,337  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:51:27,355  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:51:27,477  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:51:27,508  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:51:28,858  INFO [main] TestBase:53 - Operator List
+2022-12-19 18:51:45,057  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:51:46,050  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:51:46,050  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:51:46,917  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:51:47,031  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:51:47,060  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:52:05,701  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:52:06,691  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:52:06,691  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:52:07,601  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:52:07,725  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:52:07,753  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:52:26,655  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:52:27,658  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:52:27,659  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:52:28,536  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:52:28,660  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:52:28,688  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:52:47,187  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:52:48,176  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:52:48,176  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:52:49,058  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:52:49,177  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:52:49,207  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:53:06,792  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:53:07,787  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:53:07,787  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:53:08,681  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:53:08,797  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:53:08,828  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:53:26,390  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:53:27,385  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:53:27,385  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:53:28,189  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:53:28,329  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:53:28,359  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:53:47,000  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:53:47,996  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:53:47,996  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:53:48,863  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:53:48,980  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:53:49,008  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:54:07,327  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:54:08,314  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:54:08,314  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:54:09,160  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:54:09,285  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:54:09,314  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:54:27,433  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:54:28,420  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:54:28,420  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:54:29,372  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:54:29,494  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:54:29,524  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:54:48,011  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:54:49,066  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:54:49,066  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:54:49,935  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:54:50,049  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:54:50,078  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:55:07,737  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:55:08,733  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:55:08,733  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:55:09,752  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:55:09,868  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:55:09,898  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:55:28,659  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:55:29,656  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:55:29,657  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:55:32,905  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:55:33,024  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:55:33,054  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:55:53,968  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:55:54,960  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:55:54,960  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:55:55,948  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:55:56,067  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:55:56,096  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:56:15,222  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:56:16,220  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:56:16,220  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:56:17,176  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:56:17,293  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:56:17,321  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:56:19,254  INFO [main] TestBase:141 - #####----Navigating to the UsefulLinks Page#####----
+2022-12-19 18:56:35,439  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:56:36,433  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:56:36,433  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:56:37,529  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:56:37,648  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:56:37,677  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:56:39,406  INFO [main] TestBase:45 - Users
+2022-12-19 18:56:55,596  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:56:56,593  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:56:56,593  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:56:57,655  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:56:57,776  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:56:57,805  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:56:59,432  INFO [main] TestBase:52 - User List
+2022-12-19 18:57:15,639  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:57:16,633  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:57:16,633  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:57:17,730  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:57:17,849  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:57:17,878  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:57:19,844  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:57:20,837  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:57:20,837  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:57:21,795  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:57:21,916  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:57:21,945  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:58:11,910  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:58:12,903  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:58:12,904  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:58:14,060  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:58:14,180  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:58:14,211  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:59:04,554  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:59:05,548  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:59:05,548  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:59:06,566  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:59:06,687  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:59:06,716  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 18:59:54,816  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 18:59:55,815  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 18:59:55,816  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 18:59:56,835  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 18:59:56,952  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 18:59:56,980  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 19:00:15,658  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 19:00:16,653  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 19:00:16,654  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 19:00:17,680  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 19:00:17,792  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 19:00:17,822  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 19:00:35,870  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 19:00:36,944  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 19:00:36,944  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 19:00:37,983  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 19:00:38,095  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 19:00:38,125  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 19:00:57,211  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 19:00:58,204  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 19:00:58,204  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 19:00:59,265  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 19:00:59,394  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 19:00:59,424  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 19:01:17,064  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 19:01:18,057  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 19:01:18,057  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 19:01:19,075  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 19:01:19,197  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 19:01:19,226  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:44:35,870  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:44:37,601  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:44:37,601  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:44:37,705  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:44:37,822  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:44:37,851  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:44:58,187  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:44:59,187  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:44:59,188  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:44:59,295  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:44:59,412  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:44:59,441  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:44:59,480  INFO [main] TestBase:47 - Heading matched
+2022-12-19 21:45:15,653  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:45:17,233  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:45:17,233  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:45:17,322  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:45:17,441  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:45:17,472  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:45:17,508  INFO [main] TestBase:61 - Heading matched
+2022-12-19 21:45:33,782  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:45:34,835  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:45:34,835  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:45:38,395  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:45:38,536  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:45:38,566  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:45:38,603  INFO [main] TestBase:75 - Heading matched
+2022-12-19 21:45:38,651  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:45:39,623  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:45:39,623  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:45:40,625  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:45:40,763  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:45:40,794  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:45:57,124  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:45:58,175  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:45:58,175  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:45:59,071  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:45:59,210  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:45:59,242  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:45:59,277  INFO [main] TestBase:94 - Heading matched
+2022-12-19 21:46:15,479  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:46:16,535  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:46:16,535  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:46:17,469  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:46:17,608  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:46:17,638  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:46:17,675  INFO [main] TestBase:108 - Heading matched
+2022-12-19 21:46:33,883  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:46:34,879  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:46:34,879  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:46:35,859  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:46:35,997  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:46:36,025  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:49:50,317  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:49:51,748  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:49:51,749  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:49:53,520  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:49:53,651  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:49:53,681  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:49:55,698  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:49:56,704  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:49:56,704  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:49:58,018  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:49:58,159  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:49:58,189  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:50:01,669  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:50:02,657  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:50:02,657  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:50:03,507  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:50:03,632  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:50:03,663  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:50:03,665  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:50:04,648  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:50:04,649  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:50:05,470  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:50:05,594  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:50:05,624  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:50:10,062  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:50:11,062  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:50:11,062  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:50:12,998  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:50:13,126  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:50:13,157  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:50:21,054  INFO [main] TestBase:59 - Reading a property file for Browser name
+2022-12-19 21:50:22,039  INFO [main] TestBase:63 - opening browser as found in file
+2022-12-19 21:50:22,039  INFO [main] TestBase:64 - User launching chrome browser
+2022-12-19 21:50:26,061  INFO [main] TestBase:50 - Maximizing Window...
+2022-12-19 21:50:26,187  INFO [main] TestBase:52 - Applying Waits...
+2022-12-19 21:50:26,219  INFO [main] TestBase:55 - User launching JBK offline website...
+2022-12-19 21:50:38,562  INFO [main] TestBase:47 - Heading matched
+2022-12-19 21:50:38,593  INFO [main] TestBase:61 - Heading matched
+2022-12-19 21:50:38,624  INFO [main] TestBase:75 - Heading matched
+2022-12-19 21:50:38,780  INFO [main] TestBase:94 - Heading matched
+2022-12-19 21:50:38,811  INFO [main] TestBase:108 - Heading matched
+2022-12-19 21:50:46,538  INFO [main] TestBase:40 - Actual Header of Dashboard Page:--Java By Kiran
+2022-12-19 21:50:46,563  INFO [main] TestBase:47 - Actual Header of Dashboard Page:--Kiran
+2022-12-19 21:50:46,591  INFO [main] TestBase:54 - Actual Header of Dashboard Page:--Online
+2022-12-19 21:50:46,618  INFO [main] TestBase:61 - Actual Header of Dashboard Page:--Dashboard Courses Offered
+2022-12-19 21:50:46,651  INFO [main] TestBase:68 - Actual Header of Dashboard Page:--Selenium
+2022-12-19 21:50:46,673  INFO [main] TestBase:75 - Actual Header of Dashboard Page:--Java / J2EE
+2022-12-19 21:50:46,695  INFO [main] TestBase:82 - Actual Header of Dashboard Page:--Python
+2022-12-19 21:50:46,727  INFO [main] TestBase:89 - Actual Header of Dashboard Page:--Php
+2022-12-19 21:50:46,757  INFO [main] TestBase:96 - Actual Header of Dashboard Page:--Automation Testing
+2022-12-19 21:50:46,791  INFO [main] TestBase:103 - Actual Header of Dashboard Page:--Software Development
+2022-12-19 21:50:46,813  INFO [main] TestBase:110 - Actual Header of Dashboard Page:--Data Science
+2022-12-19 21:50:46,851  INFO [main] TestBase:117 - Actual Header of Dashboard Page:--Web Development
+2022-12-19 21:50:47,616  INFO [main] TestBase:135 - #####----Navigating to the Users Page#####----
+2022-12-19 21:50:47,650  INFO [main] TestBase:45 - Users
+2022-12-19 21:50:47,677  INFO [main] TestBase:52 - User List
+2022-12-19 21:50:47,829  INFO [main] TestBase:65 - Add User
+2022-12-19 21:50:47,867  INFO [main] TestBase:72 - Fill Below Details
+2022-12-19 21:50:49,813  INFO [main] TestBase:127 - #####----Navigating to the Operator Page#####----
+2022-12-19 21:50:49,849  INFO [main] TestBase:45 - Operators
+2022-12-19 21:50:49,876  INFO [main] TestBase:53 - Operator List
+2022-12-19 21:50:50,882  INFO [main] TestBase:141 - #####----Navigating to the UsefulLinks Page#####----
+2022-12-19 21:50:50,940  INFO [main] TestBase:55 - * Internet Required
+2022-12-19 21:50:50,971  INFO [main] TestBase:63 - Sr Content Click
+2022-12-19 21:50:51,002  INFO [main] TestBase:70 - 01 Schedule Go !
+2022-12-19 21:50:51,033  INFO [main] TestBase:77 - 02 Video Lactures All Topics Go !
+2022-12-19 21:50:51,063  INFO [main] TestBase:85 - 03 Selenium Interview Questions Go !
+2022-12-19 21:50:51,095  INFO [main] TestBase:92 - 04 Java Interview Questions Go !
+2022-12-19 21:50:51,124  INFO [main] TestBase:99 - 05 Courses Go !
+2022-12-19 21:50:51,156  INFO [main] TestBase:106 - 06 Placement Go !
+2022-12-19 21:50:51,668  INFO [main] TestBase:119 - Copyright © 2005-2019 JavaByKiran.
+2022-12-19 21:50:51,720  INFO [main] TestBase:127 - Design for Selenium Automation Test
+2022-12-19 21:50:51,829  INFO [main] TestBase:135 - #####----Navigating to the Downloads Page#####----
+2022-12-19 21:50:51,852  INFO [main] TestBase:52 - Downloads
+2022-12-19 21:50:51,880  INFO [main] TestBase:60 - Downloads List
+2022-12-19 21:50:51,911  INFO [main] TestBase:68 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 21:50:51,936  INFO [main] TestBase:74 - Sr Name vendor Version 32bit 64bit Common Official Source
+*For prevoius and latest releases
+2022-12-19 21:50:51,958  INFO [main] TestBase:80 - 01 Java Development Kit (JDK) 1.8 32bit 64bit Official Website
+2022-12-19 21:50:51,990  INFO [main] TestBase:86 - 02 Selenium Server Standalon Jar 2.52.0 3.9.0 2.52.0 3.9.0 Official Website
+2022-12-19 21:50:52,017  INFO [main] TestBase:92 - 03 Selenium Server Source Jar 2.46.0 Common Official Website
+2022-12-19 21:50:52,051  INFO [main] TestBase:98 - 04 Google Chrome 76.0 32bit 64bit Official Website
+2022-12-19 21:50:52,078  INFO [main] TestBase:104 - 05 Google Chrome Driver 76.0 Common Official Website
+2022-12-19 21:50:52,112  INFO [main] TestBase:110 - 06 Mozilla Firefox 69.0 32bit 64bit Official Website
+2022-12-19 21:50:52,141  INFO [main] TestBase:116 - 07 Gecko Driver for Latest firefox 0.24.0 32bit 64bit Official Website
+2022-12-19 21:50:52,903 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:52,904 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-12-19 21:50:52,904 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-12-19 21:50:52,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-12-19 21:50:52,905 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-12-19 21:50:52,958 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:52,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-12-19 21:50:52,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-12-19 21:50:52,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-12-19 21:50:52,959 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-12-19 21:50:53,034 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-12-19 21:50:53,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-12-19 21:50:53,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-12-19 21:50:53,035 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-12-19 21:50:53,045 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-12-19 21:50:53,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-12-19 21:50:53,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-12-19 21:50:53,046 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-12-19 21:50:53,047 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-12-19 21:50:53,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-12-19 21:50:53,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-12-19 21:50:53,049 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-12-19 21:50:53,051 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-12-19 21:50:53,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-12-19 21:50:53,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-12-19 21:50:53,053 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-12-19 21:50:53,056 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,056 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,057 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2022-12-19 21:50:53,057 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-12-19 21:50:53,057 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-12-19 21:50:53,057 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-12-19 21:50:53,063 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-12-19 21:50:53,065 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-12-19 21:50:53,065 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-12-19 21:50:53,065 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-12-19 21:50:53,069 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-12-19 21:50:53,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-12-19 21:50:53,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-12-19 21:50:53,072 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-12-19 21:50:53,072 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-12-19 21:50:53,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-12-19 21:50:53,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-12-19 21:50:53,074 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-12-19 21:50:53,078 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-12-19 21:50:53,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-12-19 21:50:53,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-12-19 21:50:53,080 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-12-19 21:50:53,087 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,088 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-12-19 21:50:53,088 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-12-19 21:50:53,088 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-12-19 21:50:53,089 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-12-19 21:50:53,099 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-12-19 21:50:53,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-12-19 21:50:53,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-12-19 21:50:53,099 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-12-19 21:50:53,105 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,106 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,109 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,110 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,111 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,112 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,114 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,115 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,116 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,117 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,118 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,118 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,119 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,119 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,120 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,122 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,123 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,123 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,123 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,125 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,125 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,125 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,126 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,126 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,127 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,128 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,128 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,129 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,130 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,131 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,131 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,131 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,131 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,132 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,133 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,133 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,134 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,134 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,135 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,135 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,137 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,137 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,138 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,138 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,139 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,139 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,140 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,141 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,142 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,143 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,144 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,145 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,146 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,146 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,147 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,148 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,148 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,148 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,149 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,149 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,149 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,151 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,151 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,152 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,152 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,152 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,153 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,153 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,153 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,154 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,154 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,154 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,155 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,155 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,157 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,157 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,157 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,158 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,158 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-12-19 21:50:53,159 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2022-12-19 21:50:53,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-12-19 21:50:53,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-12-19 21:50:53,159 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-12-19 21:50:53,160 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2022-12-19 21:50:53,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-12-19 21:50:53,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-12-19 21:50:53,161 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-12-19 21:50:53,161 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2022-12-19 21:50:53,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-12-19 21:50:53,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-12-19 21:50:53,162 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-12-19 21:50:53,163 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2022-12-19 21:50:53,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-12-19 21:50:53,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-12-19 21:50:53,163 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-12-19 21:50:53,164 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2022-12-19 21:50:53,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-12-19 21:50:53,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-12-19 21:50:53,165 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-12-19 21:50:53,166 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,166 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-12-19 21:50:53,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-12-19 21:50:53,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-12-19 21:50:53,167 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-12-19 21:50:53,289 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-12-19 21:50:53,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-12-19 21:50:53,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-12-19 21:50:53,291 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-12-19 21:50:53,292 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-12-19 21:50:53,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-12-19 21:50:53,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-12-19 21:50:53,295 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-12-19 21:50:53,295 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shubh/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

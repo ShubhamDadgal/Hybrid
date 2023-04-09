@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.JBKProjectTest.DownloadsPageTest">
+        <methods>
+          <include name="verify_ClickLogout"/>
+          <include name="afterMethod"/>
+          <include name="verify_PrintRow3"/>
+          <include name="verify_Heading_DownloadsList"/>
+          <include name="verify_PrintRow5"/>
+          <include name="verify_PrintRow4"/>
+          <include name="verify_PrintRow7"/>
+          <include name="verify_PrintRow8"/>
+          <include name="verify_PrintRow2"/>
+          <include name="verify_SmallHead"/>
+          <include name="verify_ClickAllOfficialWebsites"/>
+          <include name="verify_PrintRow6"/>
+          <include name="verify_PrintRow1"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.JBKProjectTest.DownloadsPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

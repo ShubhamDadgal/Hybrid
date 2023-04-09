@@ -1,0 +1,647 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>76/4/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Dec 19 21:50:33 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>18 seconds (18860 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_ClickLogout()'><b>verify_ClickLogout</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | Operators]
+	at com.JBKProjectTest.DownloadsPageTest.verify_ClickLogout(DownloadsPageTest.java:129)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+... Removed 33 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace26059997", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace26059997'><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | Operators]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.JBKProjectTest.DownloadsPageTest.verify_ClickLogout(DownloadsPageTest.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.downloadImg()'><b>downloadImg</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+	at com.JBKProjectTest.LoginPageTest.downloadImg(LoginPageTest.java:39)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+... Removed 33 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1627496281", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1627496281'><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.JBKProjectTest.LoginPageTest.downloadImg(LoginPageTest.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>4</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_CorrectCredentials()'><b>verify_CorrectCredentials</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [JavaByKiran | Dashboard] but found [JavaByKiran | User]
+	at com.JBKProjectTest.LoginPageTest.verify_CorrectCredentials(LoginPageTest.java:83)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+... Removed 33 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1274225913", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1274225913'><pre>java.lang.AssertionError: expected [JavaByKiran | Dashboard] but found [JavaByKiran | User]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.JBKProjectTest.LoginPageTest.verify_CorrectCredentials(LoginPageTest.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>5</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_providedDataOfNewMember()'><b>verify_providedDataOfNewMember</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+	at com.JBKProjectTest.LoginPageTest.verify_providedDataOfNewMember(LoginPageTest.java:76)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+... Removed 33 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace285754614", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace285754614'><pre>java.lang.AssertionError: expected [JavaByKiran | Log in] but found [JavaByKiran | User]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.JBKProjectTest.LoginPageTest.verify_providedDataOfNewMember(LoginPageTest.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>2</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_Heading_DownloadsList()'><b>verify_Heading_DownloadsList</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresent_for_Administration()'><b>verify_PersonsPresent_for_Administration</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_AllOperatorsPrint()'><b>verify_AllOperatorsPrint</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_Register_NewMember()'><b>verify_Register_NewMember</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_SideBar_Dashboard()'><b>verify_SideBar_Dashboard</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.addUser1()'><b>addUser1</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_UsersPrintTableContent()'><b>verify_UsersPrintTableContent</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_NavigateToUsefulLinksPage()'><b>verify_NavigateToUsefulLinksPage</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow5()'><b>verify_PrintRow5</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_WebDevelopment()'><b>verify_Text_WebDevelopment</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow3()'><b>verify_LinksTableRow3</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_Selenium()'><b>verify_Text_Selenium</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresent_for_UrgentTechnicalHelp()'><b>verify_PersonsPresent_for_UrgentTechnicalHelp</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_SideBar_UserClick()'><b>verify_SideBar_UserClick</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_ClickLinks()'><b>verify_ClickLinks</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Header_JavaByKiran()'><b>verify_Header_JavaByKiran</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_UsersPrintTableHeading()'><b>verify_UsersPrintTableHeading</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_ConnectionWith_Whatsapp_PhoneCall_Sms_Email()'><b>verify_ConnectionWith_Whatsapp_PhoneCall_Sms_Email</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow4()'><b>verify_LinksTableRow4</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_JavaJ2EE()'><b>verify_Text_JavaJ2EE</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow5()'><b>verify_LinksTableRow5</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow3()'><b>verify_PrintRow3</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_Heading_UserList()'><b>verify_Heading_UserList</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.addUsersDelete1()'><b>addUsersDelete1</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresentOn_MondayToSunday()'><b>verify_PersonsPresentOn_MondayToSunday</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_Heading_InternetRequired()'><b>verify_Heading_InternetRequired</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_Head2_CoursesName_Print()'><b>verify_Head2_CoursesName_Print</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_Heading_Users()'><b>verify_Heading_Users</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_ConnectionWith_WhatsappOnly()'><b>verify_ConnectionWith_WhatsappOnly</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow7()'><b>verify_PrintRow7</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_NewHead_JavaByKiran_Print()'><b>verify_NewHead_JavaByKiran_Print</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow2()'><b>verify_PrintRow2</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_DataScience()'><b>verify_Text_DataScience</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_Heading_LinksTable()'><b>verify_Heading_LinksTable</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresentOn_SaturdaySunday()'><b>verify_PersonsPresentOn_SaturdaySunday</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_Heading_AddUser()'><b>verify_Heading_AddUser</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_clickLinkText()'><b>verify_clickLinkText</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresent_for_TechnicalDiscussion()'><b>verify_PersonsPresent_for_TechnicalDiscussion</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_SmallHead()'><b>verify_SmallHead</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_SideBar_UsersClick()'><b>verify_SideBar_UsersClick</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow2()'><b>verify_LinksTableRow2</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_Head1_JavaByKiran_Print()'><b>verify_Head1_JavaByKiran_Print</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresentOn_MondayToSaturday()'><b>verify_PersonsPresentOn_MondayToSaturday</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresent_for_Enquiry()'><b>verify_PersonsPresent_for_Enquiry</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_Footer1()'><b>verify_Footer1</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_Footer2()'><b>verify_Footer2</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Heading_Dashboard()'><b>verify_Heading_Dashboard</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_navigateToOperatorPage()'><b>verify_navigateToOperatorPage</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow8()'><b>verify_PrintRow8</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_Online()'><b>verify_Text_Online</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_AutomationTesting()'><b>verify_Text_AutomationTesting</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_Heading_OperatorList()'><b>verify_Heading_OperatorList</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.addUsersDelete4()'><b>addUsersDelete4</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_Heading_Downloads()'><b>verify_Heading_Downloads</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_AddUserButton_Click()'><b>verify_AddUserButton_Click</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_Heading_UsefulLinks()'><b>verify_Heading_UsefulLinks</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.verify_FillDetails()'><b>verify_FillDetails</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow6()'><b>verify_LinksTableRow6</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow1()'><b>verify_PrintRow1</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_NavigateToDownloadsPage()'><b>verify_NavigateToDownloadsPage</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_AllOperatorsHeadingPrint()'><b>verify_AllOperatorsHeadingPrint</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_Php()'><b>verify_Text_Php</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow4()'><b>verify_PrintRow4</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_PrintRow6()'><b>verify_PrintRow6</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_RegisterLink_Click()'><b>verify_RegisterLink_Click</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_SoftwareDevelopment()'><b>verify_Text_SoftwareDevelopment</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.addUsersDelete2()'><b>addUsersDelete2</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UserPageTest.addUsersDelete3()'><b>addUsersDelete3</b><br>Test class: com.JBKProjectTest.UserPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UserPageTest@6dde5c8c</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_Heading_Operators()'><b>verify_Heading_Operators</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresent_for_TechnicalHelp()'><b>verify_PersonsPresent_for_TechnicalHelp</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Text_Python()'><b>verify_Text_Python</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+<tr>
+<td title='com.JBKProjectTest.OperatorPageTest.verify_PersonsPresentOn_MondayToFridayAndSunday()'><b>verify_PersonsPresentOn_MondayToFridayAndSunday</b><br>Test class: com.JBKProjectTest.OperatorPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.OperatorPageTest@5123a213</td></tr>
+<tr>
+<td title='com.JBKProjectTest.UsefulLinksPageTest.verify_LinksTableRow1()'><b>verify_LinksTableRow1</b><br>Test class: com.JBKProjectTest.UsefulLinksPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.UsefulLinksPageTest@52525845</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DownloadsPageTest.verify_ClickAllOfficialWebsites()'><b>verify_ClickAllOfficialWebsites</b><br>Test class: com.JBKProjectTest.DownloadsPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DownloadsPageTest@3b94d659</td></tr>
+<tr>
+<td title='com.JBKProjectTest.LoginPageTest.verify_Head3_SigninMessage_Print()'><b>verify_Head3_SigninMessage_Print</b><br>Test class: com.JBKProjectTest.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.LoginPageTest@5d11346a</td></tr>
+<tr>
+<td title='com.JBKProjectTest.DashboardPageTest.verify_Active_Kiran()'><b>verify_Active_Kiran</b><br>Test class: com.JBKProjectTest.DashboardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.JBKProjectTest.DashboardPageTest@6fb0d3ed</td></tr>
+</table><p>
+</body>
+</html>
